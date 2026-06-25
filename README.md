@@ -24,12 +24,15 @@ A simple Library Management System built using Python, Object-Oriented Programmi
 
 ```text
 library_management_system/
+├── screenshots/
 ├── book.py
 ├── library.py
 ├── main.py
 ├── books.json
-└── README.md
+├── README.md
+└── .gitignore
 ```
+
 
 ## How to Run
 
