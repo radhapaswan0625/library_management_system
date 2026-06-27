@@ -6,15 +6,15 @@
         "quantity": 12
     },
     {
-        "book_id": 102,
-        "title": "C++",
-        "author": "Sita",
-        "quantity": 14
-    },
-    {
         "book_id": 103,
         "title": "How to Stop Worrying and Start Living",
         "author": "Dale Carnegie",
         "quantity": 13
+    },
+    {
+        "book_id": 100,
+        "title": "Atomic Habits",
+        "author": "ABC",
+        "quantity": 5
     }
 ]
